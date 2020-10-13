@@ -1,0 +1,22 @@
+.b {
+    font-weight: bold;
+}
+.container {
+    width: 80%;
+    display: inline-block;
+    float: left;
+}
+
+nav {
+    border: 2px solid black;
+    background: lightgray;
+    width: 200px;
+}
+h3  {
+    text-align: center;
+}
+
+aside {
+    display: inline-block;
+    float: left;
+}
