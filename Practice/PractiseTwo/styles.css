@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    text-align: center;
+}
+header {
+    width: 100%;
+    height: 300px;
+    background-color: yellow;
+}
+
+.headerOne {
+    width: 60%;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    margin-top: 75px;
+    padding-top: 50px;
+}
+
+.headerTwo {
+    width: 60%;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+}
+
+nav {
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
+
+.navOne {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: purple;
+}
+
+.navTwo {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: orange;
+}
+.navThree {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: yellow;
+}
+
+.navFour {
+    float: left;
+    height: 150px;
+    width: 25%;
+    background-color: green;
+}
+main {
+    width: 100%;
+    height: 600px;
+}
+
+.leftBlock {
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    background-color: brown;
+}
+
+.centerBlock {
+    width: 33.4%;
+    height: 100%;
+    float: left;
+    background-color: gray;
+}
+
+.rightBlock {
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    background-color: blue;
+}
+
+.left {
+    background-color: red;
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.aLeft {
+    width: 50%;
+    height: 450px;
+    float: left;
+    background-color: yellow;
+    margin-top: 31px;
+}
+
+.bLeft {
+    width: 50%;
+    height: 450px;
+    float: left;
+    background-color: white;
+    margin-top: 31px;
+}
+
+.centerWrapper {
+    height: 531px;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.centerLeft {
+    width: 33.3%;
+    height: 100%;
+    background-color: green;
+    display: block;
+    float: left;
+}
+
+.centerCenter {
+    width: 33.3%;
+    height: 100%;
+    background-color: yellow;
+    display: block;
+    float: left;
+}
+
+.centerRight{
+    width: 33.4%;
+    height: 100%;
+    background-color: orange;
+    display: block;
+    float: left;
+}
+
+.A-c{
+    width: 50%;
+    height: 95%;
+    background-color: pink;
+    display: block;
+    float: left;
+    margin-top: 10px;
+}
+ .B-c{
+     width: 50%;
+     height: 40%;
+     background-color: purple;
+     display: block;
+     float: left;
+     margin-top: 301px;
+ }
+
+footer{
+    clear: both;
+    color: white;
+    height: 150px;
+    background-color: black;
+}

@@ -1,3 +1,17 @@
+* {
+    margin: 0;
+}
+
+.generalMenu {
+    width: 20%;
+    display: inline-block;
+    float: left;
+}
+
+.mainContent {
+    width: 80%;
+}
+
 .container {
     display: inline-block;
 }
