@@ -39,19 +39,56 @@ img {
     clear: both;
 }
 
+.blockThree {
+    width: 500px;
+    float: left;
+}
+
+.blockFour {
+    margin-left: 500px;
+}
+
+.paragraph {
+    visibility: hidden;
+}
+
+.paragraphTwo {
+    display: none;
+}
+
+.parent {
+    margin-top: 10px;
+    font-size: 0; /* це щоб забрати відступи */
+}
+
+.child {
+    width: 300px;
+    display: inline-block;
+    background: lightblue;
+    font-size: 15px; /* це щоб появився текст */
+}
+
 .bg-black {
+    color: white;
     background: black;
     height: 200px;
     position: relative;
+    top: 20px;
 }
 
 .bg-yellow {
     background: yellow;
     width: 100px;
     height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
 
 }
 .bg-red {
+    position: fixed;
+    top: 100px;
+    left: 20px;
     background: red;
     width: 100px;
     height: 100px;
