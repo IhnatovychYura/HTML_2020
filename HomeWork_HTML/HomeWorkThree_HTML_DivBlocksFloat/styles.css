@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 80%;
+    height: 800px;
+    background:black;
+    padding: 2px;
+}
+.header {
+    width: 100%;
+    height: 200px;
+    background: orange;
+}
+
+.bg-red {
+    background: red;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+ .bg-green {
+     background: green;
+     width: 25%;
+     height: 400px;
+     float: left;
+ }
+ .bg-blue {
+     background: blue;
+     width: 25%;
+     height: 400px;
+     float: left;
+ }
+ .bg-black {
+     background: black;
+     width: 25%;
+     height: 400px;
+     float: left;
+ }
+ .footer {
+     background: orange;
+     height: 200px;
+     clear: both;
+ }
